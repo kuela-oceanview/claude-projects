@@ -8,7 +8,8 @@ This is a collection of small web projects built as single self-contained HTML f
 
 ## Workflow
 
-- After every meaningful change, commit with a clear message and push to `origin/main`.
+- **Commit and push frequently.** After every meaningful change — new feature, bug fix, or notable progress — stage the relevant files, write a concise commit message, and push to `origin/main`. Never let significant work sit uncommitted.
+- Commit messages should describe *what changed and why*, not just "update file".
 - Each project lives in its own `.html` file at the repo root.
 
 ## Current Projects
